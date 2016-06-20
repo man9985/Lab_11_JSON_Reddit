@@ -1,0 +1,21 @@
+body {
+	background-color: gray;
+	text-align: left;
+	font-family: papyrus;
+}
+
+h1 {
+	border-bottom: 3px double black;
+	text-align: center;
+}
+
+
+.thumbnail {
+	float: left;
+	border: 2 px double black;
+}
+
+.inline {
+	margin-top: 50px;
+	border: 2 px double black;
+}
